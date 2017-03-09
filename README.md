@@ -13,6 +13,9 @@ New users are STRONGLY encouraged to begin using [MetaMorpheus](https://github.c
 Morpheus and G-PTMD. 
 
 
+##Seriously. Go try [MetaMorpheus](https://github.com/smith-chem-wisc/MetaMorpheus)
+
+
 ##General Overview
 
 G-PTMD is a tool used to expand the scope of peptide identification to include 
